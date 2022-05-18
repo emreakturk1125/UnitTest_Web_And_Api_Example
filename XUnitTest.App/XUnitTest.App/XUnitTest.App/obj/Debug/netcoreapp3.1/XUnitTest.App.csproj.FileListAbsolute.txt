@@ -1,0 +1,9 @@
+C:\Users\emre.akturk\source\repos\XUnitTest.App\XUnitTest.App\bin\Debug\netcoreapp3.1\XUnitTest.App.deps.json
+C:\Users\emre.akturk\source\repos\XUnitTest.App\XUnitTest.App\bin\Debug\netcoreapp3.1\XUnitTest.App.dll
+C:\Users\emre.akturk\source\repos\XUnitTest.App\XUnitTest.App\bin\Debug\netcoreapp3.1\XUnitTest.App.pdb
+C:\Users\emre.akturk\source\repos\XUnitTest.App\XUnitTest.App\obj\Debug\netcoreapp3.1\XUnitTest.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre.akturk\source\repos\XUnitTest.App\XUnitTest.App\obj\Debug\netcoreapp3.1\XUnitTest.App.AssemblyInfoInputs.cache
+C:\Users\emre.akturk\source\repos\XUnitTest.App\XUnitTest.App\obj\Debug\netcoreapp3.1\XUnitTest.App.AssemblyInfo.cs
+C:\Users\emre.akturk\source\repos\XUnitTest.App\XUnitTest.App\obj\Debug\netcoreapp3.1\XUnitTest.App.csproj.CoreCompileInputs.cache
+C:\Users\emre.akturk\source\repos\XUnitTest.App\XUnitTest.App\obj\Debug\netcoreapp3.1\XUnitTest.App.dll
+C:\Users\emre.akturk\source\repos\XUnitTest.App\XUnitTest.App\obj\Debug\netcoreapp3.1\XUnitTest.App.pdb
